@@ -5,11 +5,11 @@
 
 Gem::Specification.new do |s|
   s.name = %q{array_stats}
-  s.version = "0.6.0"
+  s.version = "0.6.1"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
-  s.authors = ["Ben Koski"]
-  s.date = %q{2010-04-05}
+  s.authors = ["Ben Koski", "Aaron Sterr"]
+  s.date = %q{2013-10-23}
   s.description = %q{Easy mean, median, percentile, and sum statistics for Ruby Arrays}
   s.email = %q{gems@benkoski.com}
   s.extra_rdoc_files = [
