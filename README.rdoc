@@ -36,18 +36,16 @@ Percentile calculations are based on the NIST formula[http://www.itl.nist.gov/di
    
 == INSTALL:
 
-* installation with gem
-  <tt>
+Installation with gem:
+
   git clone https://github.com/asterr/array_stats.git
   cd array_stats
   gem build array_stats.gemspec
   sudo gem install ./array_stats-0.6.1.gem
-  </tt>
 
-* installation with bundler
-  <tt>
+Installation with bundler:
+
   gem 'array_stats',        :git => 'https://github.com/asterr/array_stats.git' 
-  </tt>
 
   
 
