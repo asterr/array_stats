@@ -36,7 +36,10 @@ Percentile calculations are based on the NIST formula[http://www.itl.nist.gov/di
    
 == INSTALL:
 
-* <tt>sudo gem install bkoski-array_stats --source http://gemcutter.org</tt>
+* <tt>git clone https://github.com/asterr/array_stats.git</tt>
+* <tt>cd array_stats</tt>
+* <tt>gem build array_stats.gemspec</tt>
+* <tt>sudo gem install ./array_stats-0.6.1.gem</tt>
 
 == LICENSE:
 
