@@ -1,7 +1,7 @@
 = array_stats
 
-* Docs[http://benkoski.com/array_stats/]
-* Source[http://github.com/bkoski/array_stats]
+* Docs[https://github.com/asterr/array_stats]
+* Source[https://github.com/asterr/array_stats]
 
 == DESCRIPTION:
 

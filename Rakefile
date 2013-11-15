@@ -8,7 +8,7 @@ begin
     gem.summary = %Q{Easy mean, median, percentile, and sum statistics for Ruby Arrays}
     gem.description = %Q{Easy mean, median, percentile, and sum statistics for Ruby Arrays}
     gem.email = "gems@benkoski.com"
-    gem.homepage = "http://github.com/bkoski/array_stats"
+    gem.homepage = "https://github.com/asterr/array_stats"
     gem.authors = ["Ben Koski", "Aaron Sterr"]
     gem.add_development_dependency "thoughtbot-shoulda", ">= 0"
     # gem is a Gem::Specification... see http://www.rubygems.org/read/chapter/20 for additional settings
